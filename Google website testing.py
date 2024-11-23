@@ -11,6 +11,6 @@ try :
     time.sleep(20)
 finally:
     driver.quit()
-
+  # "improve CSS styling"
 
 
